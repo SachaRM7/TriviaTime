@@ -1,0 +1,32 @@
+Agis comme un expert en création de base de données pour un jeu de culture générale type "Trivial Pursuit" intergénérationnel.
+
+Je vais te donner 4 paramètres précis. Tu dois générer une liste de 20 questions respectant scrupuleusement ces critères.
+
+---
+🔻 LES PARAMÈTRES DE CETTE REQUÊTE :
+1. THÈME : [INSÉRER ICI : Histoire / Geographie / Science / Divertissement / Musique / Sport / Art]
+2. ÉPOQUE (Era) : [INSÉRER ICI : INTEMPOREL / 1960s / 1970s / 1980s / 1990s / 2000s / 2010s / 2020s]
+3. NOTORIÉTÉ : [INSÉRER ICI : 1, 2 ou 3]
+4. DÉPART ID : [INSÉRER ICI LE NUMÉRO DU PROCHAIN ID, EX: 50]
+
+---
+🔻 DÉFINITION DE LA NOTORIÉTÉ (À respecter impérativement) :
+- Si j'ai demandé 1 (Mainstream) : La réponse est évidente pour 90% des gens ou enseignée à l'école primaire. C'est du "Savoir Populaire".
+- Si j'ai demandé 2 (Standard) : La réponse est connue des amateurs du genre ou des gens ayant vécu cette époque consciemment.
+- Si j'ai demandé 3 (Expert) : La réponse est un détail précis, une date exacte, un personnage secondaire ou une œuvre moins connue. C'est difficile.
+
+---
+🔻 FORMAT DE SORTIE ATTENDU (JSON STRICT) :
+Renvoie uniquement un tableau JSON valide. Pas de texte avant ni après. Pas de Markdown inutile.
+Respecte exactement ces clés :
+
+[
+  {
+    "theme": "(Le thème demandé)",
+    "text": "La question (claire et précise) ?",
+    "answer": "La réponse (courte)",
+    "notoriety": (Le chiffre demandé : 1, 2 ou 3),
+    "era": "(L'époque demandée)"
+  },
+  ...
+]

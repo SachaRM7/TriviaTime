@@ -1,0 +1,4 @@
+🔴 DOUBLON DÉTECTÉ (2 fois) :
+   Question : 'Dans quel pays se trouvent les grandes Pyramides de Gizeh ?'
+   -> Vu dans : geographie_1960s.json (Era: 1960s, Noto: 1)
+   -> Vu dans : geographie_1970s.json (Era: 1970s, Noto: 1)

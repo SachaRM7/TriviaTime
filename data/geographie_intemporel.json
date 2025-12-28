@@ -1,0 +1,1332 @@
+[
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la France ?",
+        "answer": "Paris",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a la forme d'une botte ?",
+        "answer": "Italie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quel continent se trouve l'Égypte ?",
+        "answer": "Afrique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Royaume-Uni ?",
+        "answer": "Londres",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus grand océan du monde ?",
+        "answer": "Pacifique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouve la ville de New York ?",
+        "answer": "États-Unis",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus grand pays du monde par sa superficie ?",
+        "answer": "Russie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de l'Espagne ?",
+        "answer": "Madrid",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays peut-on voir la Grande Muraille ?",
+        "answer": "Chine",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville est surnommée la « Ville Lumière » ?",
+        "answer": "Paris",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel océan sépare l'Europe de l'Amérique ?",
+        "answer": "Atlantique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de l'Italie ?",
+        "answer": "Rome",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouvent les pyramides de Gizeh ?",
+        "answer": "Égypte",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de l'Allemagne ?",
+        "answer": "Berlin",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quel continent se situe le Brésil ?",
+        "answer": "Amérique du Sud",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Japon ?",
+        "answer": "Tokyo",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel fleuve traverse l'Égypte ?",
+        "answer": "Le Nil",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays se trouve juste au nord des États-Unis ?",
+        "answer": "Canada",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale des États-Unis ?",
+        "answer": "Washington",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouve le Taj Mahal ?",
+        "answer": "Inde",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus grand désert chaud du monde ?",
+        "answer": "Sahara",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle forme géométrique surnomme la France ?",
+        "answer": "L'Hexagone",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Belgique ?",
+        "answer": "Bruxelles",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le continent le plus froid ?",
+        "answer": "Antarctique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Chine ?",
+        "answer": "Pékin",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a pour symbole la feuille d'érable ?",
+        "answer": "Canada",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle chaîne de montagnes sépare la France de l'Espagne ?",
+        "answer": "Les Pyrénées",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quel continent se trouve la Chine ?",
+        "answer": "Asie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Russie ?",
+        "answer": "Moscou",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays est composé d'îles comme Honshu et Hokkaido ?",
+        "answer": "Japon",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la ligne imaginaire qui divise la Terre en deux hémisphères ?",
+        "answer": "L'équateur",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Portugal ?",
+        "answer": "Lisbonne",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouve la ville de Marrakech ?",
+        "answer": "Maroc",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la plus haute montagne du monde ?",
+        "answer": "Everest",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus petit État du monde ?",
+        "answer": "Vatican",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouve la ville de Sydney ?",
+        "answer": "Australie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Grèce ?",
+        "answer": "Athènes",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel fleuve traverse la ville de Paris ?",
+        "answer": "La Seine",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouve la forêt amazonienne principalement ?",
+        "answer": "Brésil",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale des Pays-Bas ?",
+        "answer": "Amsterdam",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle chaîne de montagnes traverse la Suisse et la France ?",
+        "answer": "Les Alpes",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays est surnommé l'Oncle Sam ?",
+        "answer": "États-Unis",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quelle planète vivons-nous ?",
+        "answer": "Terre",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la monnaie utilisée en France ?",
+        "answer": "L'Euro",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale fédérale de l'Australie ?",
+        "answer": "Canberra",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays africain se trouve le Mont Kilimandjaro ?",
+        "answer": "Tanzanie",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle mer sépare l'Italie de la péninsule balkanique (Croatie, etc.) ?",
+        "answer": "La mer Adriatique",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Turquie ?",
+        "answer": "Ankara",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel fleuve traverse la ville de Rome ?",
+        "answer": "Le Tibre",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel État américain se situe le Grand Canyon ?",
+        "answer": "Arizona",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays actuel se situe la ville historique de Tombouctou ?",
+        "answer": "Mali",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel détroit sépare l'Espagne du Maroc ?",
+        "answer": "Le détroit de Gibraltar",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quels sont les deux pays qui se partagent le lac Titicaca ?",
+        "answer": "Le Pérou et la Bolivie",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Canada ?",
+        "answer": "Ottawa",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle chaîne de montagnes marque la frontière traditionnelle entre l'Europe et l'Asie ?",
+        "answer": "L'Oural",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Brésil ?",
+        "answer": "Brasilia",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays insulaire se situe juste au sud de l'Inde, surnommé la 'larme de l'Inde' ?",
+        "answer": "Sri Lanka",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "À quel pays appartiennent les îles Galápagos ?",
+        "answer": "L'Équateur",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel fleuve traverse la ville de Cologne en Allemagne ?",
+        "answer": "Le Rhin",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Maroc ?",
+        "answer": "Rabat",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel grand désert froid s'étend sur le nord de la Chine et le sud de la Mongolie ?",
+        "answer": "Le désert de Gobi",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quel fleuve se trouvent les Chutes Victoria ?",
+        "answer": "Le Zambèze",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel volcan domine la baie de Naples ?",
+        "answer": "Le Vésuve",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Suisse ?",
+        "answer": "Berne",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le lac le plus profond du monde, situé en Sibérie ?",
+        "answer": "Le lac Baïkal",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se situe la région historique de la Transylvanie ?",
+        "answer": "Roumanie",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle petite principauté est située dans les Pyrénées, entre la France et l'Espagne ?",
+        "answer": "Andorre",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Thaïlande ?",
+        "answer": "Bangkok",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel État américain se trouve la ville de Las Vegas ?",
+        "answer": "Nevada",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle mer borde le nord de la Turquie et le sud de l'Ukraine ?",
+        "answer": "La mer Noire",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Comment appelle-t-on la région néerlandophone du nord de la Belgique ?",
+        "answer": "La Flandre",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Pologne ?",
+        "answer": "Varsovie",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le point culminant du Japon ?",
+        "answer": "Le Mont Fuji",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "De quel Land allemand Munich est-elle la capitale ?",
+        "answer": "La Bavière",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel désert très aride se trouve au nord du Chili ?",
+        "answer": "Le désert d'Atacama",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays d'Asie du Sud-Est se trouvent les temples d'Angkor ?",
+        "answer": "Cambodge",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus long fleuve d'Italie ?",
+        "answer": "Le Pô",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de l'Égypte ?",
+        "answer": "Le Caire",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle mer très salée borde la Jordanie à l'ouest ?",
+        "answer": "La mer Morte",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel État américain se trouvent les marécages des Everglades ?",
+        "answer": "Floride",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle chaîne de montagnes traverse le Maroc, l'Algérie et la Tunisie ?",
+        "answer": "L'Atlas",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de l'Argentine ?",
+        "answer": "Buenos Aires",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quelle île de l'archipel d'Hawaï se trouve la ville d'Honolulu ?",
+        "answer": "Oahu",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel fleuve traverse la ville de Bagdad ?",
+        "answer": "Le Tigre",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Vietnam ?",
+        "answer": "Hanoï",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelles célèbres chutes d'eau se trouvent à la frontière entre les USA et le Canada ?",
+        "answer": "Les chutes du Niagara",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Suède ?",
+        "answer": "Stockholm",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel canal relie l'océan Atlantique à l'océan Pacifique en Amérique centrale ?",
+        "answer": "Le canal de Panama",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle mer borde la Suède, la Finlande, la Russie et les pays baltes ?",
+        "answer": "La mer Baltique",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Colombie ?",
+        "answer": "Bogota",
+        "notoriety": 2,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom de la capitale administrative du Sri Lanka ?",
+        "answer": "Sri Jayawardenepura Kotte",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel détroit sépare la Tasmanie de l'Australie continentale ?",
+        "answer": "Le détroit de Bass",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le seul pays d'Amérique du Sud dont la langue officielle est le néerlandais ?",
+        "answer": "Le Suriname",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom du point le plus profond des océans, situé dans la fosse des Mariannes ?",
+        "answer": "Challenger Deep",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la seule mer au monde qui ne possède pas de rivages terrestres ?",
+        "answer": "La mer des Sargasses",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom de la capitale du Burkina Faso ?",
+        "answer": "Ouagadougou",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle île yéménite est célèbre pour sa biodiversité unique et ses arbres « sang-dragon » ?",
+        "answer": "Socotra",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le point culminant du continent africain ?",
+        "answer": "Le Kilimandjaro",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel détroit sépare la Corse de la Sardaigne ?",
+        "answer": "Les Bouches de Bonifacio",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Liechtenstein ?",
+        "answer": "Vaduz",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouve le désert de l'Atacama ?",
+        "answer": "Le Chili",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le seul État américain composé uniquement d'îles ?",
+        "answer": "Hawaï",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Kazakhstan (nommée ainsi depuis 2019 puis revenue à l'ancien nom en 2022) ?",
+        "answer": "Astana",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays possède le plus grand nombre de fuseaux horaires (territoires d'outre-mer inclus) ?",
+        "answer": "La France",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom de l'exclave russe située entre la Pologne et la Lituanie ?",
+        "answer": "Kaliningrad",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus haut sommet de l'Antarctique ?",
+        "answer": "Le massif Vinson",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays européen a pour capitale Ljubljana ?",
+        "answer": "La Slovénie",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom du détroit stratégique reliant le golfe Persique au golfe d'Oman ?",
+        "answer": "Le détroit d'Ormuz",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la seule nation d'Asie du Sud-Est à n'avoir jamais été colonisée par une puissance européenne ?",
+        "answer": "La Thaïlande",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le sommet le plus éloigné du centre de la Terre (en raison du renflement équatorial) ?",
+        "answer": "Le Chimborazo",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Bhoutan ?",
+        "answer": "Thimphou",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel lac navigable est le plus haut du monde ?",
+        "answer": "Le lac Titicaca",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom de la pointe la plus méridionale du continent africain ?",
+        "answer": "Le cap des Aiguilles",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel archipel se trouve le point Nemo, le pôle maritime d'inaccessibilité ?",
+        "answer": "Le Pacifique Sud (loin de toute terre)",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a pour monnaie le Złoty ?",
+        "answer": "La Pologne",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le seul pays au monde dont le drapeau n'est ni carré ni rectangulaire ?",
+        "answer": "Le Népal",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale politique de la Côte d'Ivoire ?",
+        "answer": "Yamoussoukro",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel détroit sépare l'Asie de l'Amérique du Nord ?",
+        "answer": "Le détroit de Béring",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Avec le Liechtenstein, quel est le seul autre pays au monde à être « doublement enclavé » ?",
+        "answer": "L'Ouzbékistan",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel volcan actif italien domine la ville de Catane en Sicile ?",
+        "answer": "L'Etna",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom du passage maritime naturel au sud du Chili reliant les océans Atlantique et Pacifique ?",
+        "answer": "Le détroit de Magellan",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville est la capitale de l'Équateur ?",
+        "answer": "Quito",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la plus grande île de la mer Méditerranée ?",
+        "answer": "La Sicile",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a la plus longue frontière terrestre continue avec les États-Unis ?",
+        "answer": "Le Canada",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la Mongolie ?",
+        "answer": "Oulan-Bator",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays insulaire du Pacifique est connu pour n'avoir aucune capitale officielle ?",
+        "answer": "Nauru",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel désert couvre la majeure partie du Botswana ?",
+        "answer": "Le Kalahari",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom du plus grand glacier d'Europe (en volume), situé en Islande ?",
+        "answer": "Le Vatnajökull",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouvent les ruines de la cité antique de Pétra ?",
+        "answer": "La Jordanie",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel fleuve est le plus long à couler entièrement en France ?",
+        "answer": "La Loire",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale du Bélize ?",
+        "answer": "Belmopan",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le seul pays d'Asie dont la population est majoritairement catholique ?",
+        "answer": "Les Philippines (ou Timor oriental)",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle mer intérieure s'assèche rapidement entre le Kazakhstan et l'Ouzbékistan ?",
+        "answer": "La mer d'Aral",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le nom de la péninsule égyptienne située en Asie ?",
+        "answer": "Le Sinaï",
+        "notoriety": 3,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle mer borde le sud de la France ?",
+        "answer": "La mer Méditerranée",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quel continent se trouve le Kenya ?",
+        "answer": "L'Afrique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quel continent se trouvent les États-Unis ?",
+        "answer": "L'Amérique du Nord",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la capitale de la France, célèbre pour les manifestations étudiantes de mai 68 ?",
+        "answer": "Paris",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel océan sépare les États-Unis de l'Europe ?",
+        "answer": "L'Océan Atlantique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus grand pays du monde par sa superficie, dirigé par Moscou ?",
+        "answer": "La Russie (ou URSS à l'époque)",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel continent a vu de nombreux pays obtenir leur indépendance dans les années 60 ?",
+        "answer": "L'Afrique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a pour capitale Rome ?",
+        "answer": "L'Italie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus grand désert chaud du monde, situé en Afrique ?",
+        "answer": "Le Sahara",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays en forme de botte se trouve en Europe ?",
+        "answer": "L'Italie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le continent le plus froid et inhabité ?",
+        "answer": "L'Antarctique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quel continent se trouve l'Australie ?",
+        "answer": "L'Océanie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a pour capitale Athènes ?",
+        "answer": "La Grèce",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville brésilienne, inaugurée en 1960, a remplacé Rio de Janeiro comme capitale du pays ?",
+        "answer": "Brasilia",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 1961, un mur de béton a été érigé pour diviser physiquement quelle capitale européenne ?",
+        "answer": "Berlin",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle chaîne de montagnes a vu s'affronter la Chine et l'Inde lors d'un conflit frontalier en 1962 ?",
+        "answer": "L'Himalaya",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel fleuve américain a pris feu en 1969 près de Cleveland en raison de la pollution extrême ?",
+        "answer": "La rivière Cuyahoga",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel détroit sépare la Floride de Cuba, souvent traversé par des réfugiés dans les années 60 ?",
+        "answer": "Le détroit de Floride",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle île de l'océan Indien, possession française, a choisi de rester département français lors d'un référendum tendu dans les années 60 ?",
+        "answer": "La Réunion",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle capitale européenne le mouvement de mai 68 a-t-il connu ses barricades les plus célèbres ?",
+        "answer": "Paris",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville a officiellement remplacé Karachi comme capitale du Pakistan en 1967 ?",
+        "answer": "Islamabad",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel micro-État du Pacifique est devenu la plus petite république du monde lors de son indépendance en 1968 ?",
+        "answer": "Nauru",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel barrage monumental sur le Zambèze, créant l'un des plus grands lacs artificiels du monde, a été inauguré en 1960 ?",
+        "answer": "Le barrage de Kariba",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel archipel britannique de l'océan Indien a été détaché de Maurice en 1965 pour former le BIOT (British Indian Ocean Territory) ?",
+        "answer": "L'archipel des Chagos",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel fleuve a vu le début de la construction du barrage d'Akosombo au Ghana, achevé en 1965 ?",
+        "answer": "La Volta",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle fosse océanique a été explorée pour la première fois jusqu'à son point le plus bas par le bathyscaphe Trieste en 1960 ?",
+        "answer": "La fosse des Mariannes",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays en forme de botte est situé au sud de l'Europe ?",
+        "answer": "Italie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville australienne le célèbre Opéra en forme de voiles a-t-il été inauguré en 1973 ?",
+        "answer": "Sydney",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a pour capitale Londres ?",
+        "answer": "Royaume-Uni (Angleterre)",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays est aussi un continent et est célèbre pour ses kangourous ?",
+        "answer": "Australie",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le plus grand État des États-Unis (par la taille), acheté à la Russie ?",
+        "answer": "Alaska",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel grand pays asiatique compte la plus grande population au monde ?",
+        "answer": "Chine",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville était la capitale administrative de l'Allemagne de l'Ouest (RFA) durant les années 70 ?",
+        "answer": "Bonn",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle capitale du Moyen-Orient a été divisée par la « Ligne verte » au début de la guerre civile en 1975 ?",
+        "answer": "Beyrouth",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Océanie a obtenu son indépendance de l'Australie en 1975 ?",
+        "answer": "La Papouasie-Nouvelle-Guinée",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel archipel, situé entre le Mozambique et Madagascar, a déclaré son indépendance en 1975 ?",
+        "answer": "Les Comores",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville a officiellement remplacé Belize City comme capitale du Honduras britannique (futur Belize) en août 1970 ?",
+        "answer": "Belmopan",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville du Malawi est devenue officiellement la capitale du pays le 1er janvier 1975, remplaçant Zomba ?",
+        "answer": "Lilongwe",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Afrique de l'Est, autre grande colonie portugaise, a accédé à l'indépendance en 1975 avec Maputo pour capitale ?",
+        "answer": "Le Mozambique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 1979, une catastrophe nucléaire majeure a eu lieu dans une centrale située sur une île de la rivière Susquehanna en Pennsylvanie. Quel est le nom de ce lieu ?",
+        "answer": "Three Mile Island",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel archipel de l'océan Indien est devenu une république indépendante du Royaume-Uni en 1976 ?",
+        "answer": "Les Seychelles",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel célèbre opéra à l'architecture en forme de voiles a été inauguré en Australie en 1973 ?",
+        "answer": "L'Opéra de Sydney",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Au-dessus de quel continent les scientifiques ont-ils découvert un trou dans la couche d'ozone en 1985 ?",
+        "answer": "Antarctique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel océan l'épave du Titanic a-t-elle finalement été localisée en 1985 ?",
+        "answer": "Atlantique",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a été la cible de bombardements américains en 1986, incluant sa capitale Tripoli ?",
+        "answer": "Libye",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville luxembourgeoise l'accord sur la suppression des frontières européennes a-t-il été signé en 1985 ?",
+        "answer": "Schengen",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle immense fédération transcontinentale a officiellement cessé d'exister le 26 décembre 1991 ?",
+        "answer": "L'URSS (Union Soviétique)",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville du Nigeria est devenue la capitale du pays en 1991, remplaçant Lagos ?",
+        "answer": "Abuja",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a déplacé sa capitale d'Almaty à Akmola (future Astana) en 1997 ?",
+        "answer": "Le Kazakhstan",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a vu la ville de Rangoun (Yangon) perdre son statut de capitale, bien que le transfert administratif ait continué après les années 90 ?",
+        "answer": "La Birmanie (Myanmar)",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel océan s'est produit le tsunami dévastateur du 26 décembre 2004 ?",
+        "answer": "Océan Indien",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 2004, combien de nouveaux pays (principalement de l'Est) ont rejoint l'Union européenne lors de son plus grand élargissement ?",
+        "answer": "10",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel immense barrage hydroélectrique chinois, le plus grand du monde, a vu son réservoir commencer à se remplir en 2003 ?",
+        "answer": "Le barrage des Trois-Gorges",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle capitale la statue de Saddam Hussein a-t-elle été symboliquement renversée en avril 2003 ?",
+        "answer": "Bagdad",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a officiellement transféré sa capitale de Rangoun à Naypyidaw en novembre 2005 ?",
+        "answer": "La Birmanie (ou Myanmar)",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel océan s'est produit le séisme sous-marin ayant déclenché le tsunami dévastateur du 26 décembre 2004 ?",
+        "answer": "L'Océan Indien",
+        "notoriety": 1,
+        "era": "INTEMPOREL"
+    }
+]

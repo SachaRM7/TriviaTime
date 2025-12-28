@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>En Jeu</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #ecf0f1; text-align: center; padding: 20px; }
+        .card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); max-width: 600px; margin: 0 auto; }
+        .theme-title { font-size: 2em; color: #8e44ad; font-weight: bold; }
+        .btn { padding: 15px 30px; margin: 10px; border: none; border-radius: 8px; font-size: 1.2em; cursor: pointer; color: white; display: block; width: 80%; margin-left: auto; margin-right: auto;}
+        .btn-easy { background-color: #27ae60; }
+        .btn-mid { background-color: #f39c12; }
+        .btn-hard { background-color: #c0392b; }
+        .btn-joker { background-color: #8e44ad; margin-bottom: 20px;}
+        .hidden { display: none; }
+        
+        #scoreboard { position: fixed; top: 10px; right: 10px; background: white; padding: 10px; border-radius: 5px; font-size: 0.8em; text-align: left; }
+    </style>
+</head>
+<body>
+
+    <div id="scoreboard">
+        <strong>Scores :</strong><br>
+        {% for p in players %}
+            {{ p.name }} : {{ p.score }} pts<br>
+        {% endfor %}
+    </div>
+
+    <h1>C'est au tour de <span style="color:#e74c3c">{{ player.name }}</span> ({{ player.age }} ans)</h1>
+
+    <div class="card" id="step-choice">
+        <p>Le thème est :</p>
+        <div class="theme-title">{{ theme }}</div>
+        <p>Choisis ton niveau de risque :</p>
+        
+        <button class="btn btn-joker" onclick="toggleJoker()">🃏 JOKER (x2) - Désactivé</button>
+
+        <button class="btn btn-easy" onclick="askQuestion('facile', 1)">🟢 FACILE (1 pt)</button>
+        <button class="btn btn-mid" onclick="askQuestion('moyen', 3)">🟡 MOYEN (3 pts)</button>
+        <button class="btn btn-hard" onclick="askQuestion('difficile', 5)">🔴 DIFFICILE (5 pts)</button>
+    </div>
+
+    <div class="card hidden" id="step-question">
+        <h2 id="q-text">...</h2>
+        <button class="btn" style="background:#34495e" onclick="showAnswer()">Voir la réponse</button>
+    </div>
+
+    <div class="card hidden" id="step-answer">
+        <h2 id="a-text" style="color:#27ae60">...</h2>
+        <p>A-t-il trouvé ?</p>
+        <button class="btn btn-easy" onclick="validate(true)">✅ OUI (Bravo)</button>
+        <button class="btn btn-hard" onclick="validate(false)">❌ NON (Dommage)</button>
+    </div>
+
+    <script>
+        // Variables globales
+        let currentPoints = 0;
+        let jokerActive = false;
+        const currentTheme = "{{ theme }}";
+        const currentAge = Number("{{ player.age }}");
+
+        function toggleJoker() {
+            jokerActive = !jokerActive;
+            const btn = document.querySelector('.btn-joker');
+            if(jokerActive) {
+                btn.innerText = "🃏 JOKER (x2) - ACTIVÉ !";
+                btn.style.border = "3px solid gold";
+            } else {
+                btn.innerText = "🃏 JOKER (x2) - Désactivé";
+                btn.style.border = "none";
+            }
+        }
+
+        function askQuestion(difficulty, points) {
+            currentPoints = points;
+            if(jokerActive) currentPoints *= 2;
+
+            // Appel API pour avoir la question
+            fetch('/api/get_question', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ difficulty: difficulty, theme: currentTheme, age: currentAge })
+            })
+            .then(r => r.json())
+            .then(data => {
+                if(data.success) {
+                    document.getElementById('q-text').innerText = data.question.text;
+                    document.getElementById('a-text').innerText = data.question.answer;
+                    
+                    document.getElementById('step-choice').classList.add('hidden');
+                    document.getElementById('step-question').classList.remove('hidden');
+                } else {
+                    alert("Erreur : " + data.message);
+                }
+            });
+        }
+
+        function showAnswer() {
+            document.getElementById('step-question').classList.add('hidden');
+            document.getElementById('step-answer').classList.remove('hidden');
+        }
+
+        function validate(isCorrect) {
+            fetch('/api/validate', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ correct: isCorrect, points: currentPoints })
+            })
+            .then(() => {
+                // Recharger la page pour le tour suivant
+                window.location.reload();
+            });
+        }
+    </script>
+</body>
+</html>

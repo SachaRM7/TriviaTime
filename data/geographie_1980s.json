@@ -1,0 +1,996 @@
+[
+    {
+        "theme": "Geographie",
+        "text": "Quel immense pays communiste était le rival des États-Unis durant les années 80 ?",
+        "answer": "URSS",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouve la centrale nucléaire de Tchernobyl ?",
+        "answer": "Ukraine (ou URSS)",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville a accueilli les Jeux Olympiques d'été de 1984 aux USA ?",
+        "answer": "Los Angeles",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays européen est divisé en deux (RFA et RDA) durant les années 80 ?",
+        "answer": "Allemagne",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays insulaire est associé aux kangourous ?",
+        "answer": "Australie",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a mené une guerre contre le Royaume-Uni pour les îles Malouines ?",
+        "answer": "Argentine",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays asiatique se trouve la ville de Tokyo ?",
+        "answer": "Japon",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel état américain est un archipel situé dans le Pacifique ?",
+        "answer": "Hawaï",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle est la langue principale parlée au Mexique ?",
+        "answer": "Espagnol",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville italienne peut-on se promener en gondole ?",
+        "answer": "Venise",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel est le pays d'origine de la reine Elizabeth II ?",
+        "answer": "Royaume-Uni",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle place de Pékin a été le théâtre de manifestations en 1989 ?",
+        "answer": "Tian'anmen",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville se trouve le Vatican ?",
+        "answer": "Rome",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "De quel pays le pape Jean-Paul II était-il originaire ?",
+        "answer": "Pologne",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel état américain a eu lieu la marée noire de l'Exxon Valdez en 1989 ?",
+        "answer": "Alaska",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel État américain a été frappé par la violente éruption du mont Saint Helens en mai 1980 ?",
+        "answer": "Washington",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Afrique, anciennement la Rhodésie du Sud, a officiellement accédé à l'indépendance en 1980 ?",
+        "answer": "Le Zimbabwe",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sous quel nom connaissait-on le Burkina Faso avant son changement de nom opéré par Thomas Sankara en 1984 ?",
+        "answer": "La Haute-Volta",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel archipel de l'Atlantique Sud une guerre a-t-elle opposé le Royaume-Uni et l'Argentine en 1982 ?",
+        "answer": "Les îles Malouines (Falkland)",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville indienne une fuite de gaz toxique a-t-elle provoqué une catastrophe industrielle majeure en 1984 ?",
+        "answer": "Bhopal",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle république de l'URSS se trouvait la centrale nucléaire de Tchernobyl lors de la catastrophe de 1986 ?",
+        "answer": "L'Ukraine",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Au large de quel État américain le pétrolier Exxon Valdez s'est-il échoué en 1989, provoquant une marée noire ?",
+        "answer": "L'Alaska",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Au-dessus de quel village écossais un avion de la Pan Am a-t-il explosé lors d'un attentat en 1988 ?",
+        "answer": "Lockerbie",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle célèbre place de Pékin a été le théâtre de manifestations pro-démocratie réprimées en 1989 ?",
+        "answer": "La place Tian'anmen",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville asiatique les Jeux Olympiques d'été se sont-ils déroulés en 1988 ?",
+        "answer": "Séoul",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville de Yougoslavie a accueilli les Jeux Olympiques d'hiver en 1984 ?",
+        "answer": "Sarajevo",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Afrique de l'Est a été ravagé par une famine médiatisée mondialement entre 1983 et 1985 ?",
+        "answer": "L'Éthiopie",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel micro-État des Caraïbes a été envahi par les troupes américaines lors de l'opération Urgent Fury en 1983 ?",
+        "answer": "La Grenade",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel port néo-zélandais le navire de Greenpeace, le Rainbow Warrior, a-t-il été coulé en 1985 ?",
+        "answer": "Auckland",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville a été frappée par un séisme dévastateur en septembre 1985, tuant des milliers de personnes ?",
+        "answer": "Mexico",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a changé son nom officiel de Birmanie à Myanmar en 1989 ?",
+        "answer": "La Birmanie (Myanmar)",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays d'Amérique du Sud le groupe de guérilla 'Sentier Lumineux' était-il particulièrement actif dans les années 80 ?",
+        "answer": "Le Pérou",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel territoire a quitté la Communauté Économique Européenne (CEE) en 1985 suite à un référendum ?",
+        "answer": "Le Groenland",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays était en guerre contre l'Iran pendant la quasi-totalité de la décennie 1980 ?",
+        "answer": "L'Irak",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville canadienne a accueilli l'Exposition universelle spécialisée sur les transports en 1986 ?",
+        "answer": "Vancouver",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel port belge s'est produit le naufrage du ferry Herald of Free Enterprise en 1987 ?",
+        "answer": "Zeebrugge",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Amérique centrale, ancienne colonie britannique, a obtenu son indépendance en 1981 (anciennement Honduras britannique) ?",
+        "answer": "Le Belize",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville les Jeux Olympiques d'été de 1980 ont-ils été boycottés par une soixantaine de nations ?",
+        "answer": "Moscou",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville libyenne a été la cible principale des bombardements américains en avril 1986 ?",
+        "answer": "Tripoli",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays le lac Nyos a-t-il libéré un nuage de gaz mortel en 1986 ?",
+        "answer": "Le Cameroun",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pont suspendu reliant deux grandes îles japonaises a été achevé en 1988 ?",
+        "answer": "Le Grand pont de Seto (Seto Ohashi)",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays se trouve le Temple d'Or d'Amritsar, théâtre de l'opération Blue Star en 1984 ?",
+        "answer": "L'Inde",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel sultanat riche en pétrole sur l'île de Bornéo est devenu totalement indépendant du Royaume-Uni en 1984 ?",
+        "answer": "Le Brunei",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville a été choisie en 1987 pour accueillir le futur parc Euro Disney (ouvert en 1992) ?",
+        "answer": "Marne-la-Vallée",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel nom portait Saint-Pétersbourg durant toute la décennie 1980 ?",
+        "answer": "Léningrad",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel État insulaire des petites Antilles est devenu indépendant en 1983 (Saint-Kitts-et-Nevis) ?",
+        "answer": "Saint-Christophe-et-Niévès",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville se trouve le stade du Heysel, lieu du drame lors de la finale de la Coupe d'Europe 1985 ?",
+        "answer": "Bruxelles",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville polonaise les accords de 1980 ont-ils mené à la reconnaissance du syndicat Solidarność ?",
+        "answer": "Gdańsk",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Amérique centrale a été le théâtre de l'affaire Iran-Contra dans les années 80 ?",
+        "answer": "Le Nicaragua",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville américaine le siège de la chaîne CNN a-t-il été établi lors de son lancement en 1980 ?",
+        "answer": "Atlanta",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sous quel nom était connu le Cambodge au début des années 80, héritage du régime Khmer rouge ?",
+        "answer": "Le Kampuchéa démocratique",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel détroit stratégique a été miné durant la guerre Iran-Irak, menaçant le trafic pétrolier mondial ?",
+        "answer": "Le détroit d'Ormuz",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle île de la Méditerranée a proclamé unilatéralement l'indépendance de sa partie nord (RTCN) en 1983 ?",
+        "answer": "Chypre",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Afrique Australe était entièrement enclavé dans l'Afrique du Sud de l'apartheid des années 80 ?",
+        "answer": "Le Lesotho",
+        "notoriety": 2,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel archipel du Pacifique, condominium franco-britannique, est devenu indépendant en 1980 sous le nom de Vanuatu ?",
+        "answer": "Les Nouvelles-Hébrides",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sous quel nom colonial le Belize était-il connu avant son indépendance du Royaume-Uni en 1981 ?",
+        "answer": "Le Honduras britannique",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle confédération éphémère a uni le Sénégal et la Gambie entre 1982 et 1989 ?",
+        "answer": "La Sénégambie",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel port néo-zélandais le navire Rainbow Warrior de Greenpeace a-t-il été coulé par les services secrets français en 1985 ?",
+        "answer": "Le port d'Auckland",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel territoire a fait sécession de la Fédération de Saint-Christophe-et-Niévès en 1980 avant d'y revenir de force, mais reste exclu du nom actuel ?",
+        "answer": "Anguilla",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel nom portait le Zimbabwe avant son indépendance reconnue internationalement en avril 1980 ?",
+        "answer": "La Rhodésie (ou Rhodésie du Sud)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel volcan colombien est entré en éruption en 1985, provoquant la tragédie d'Armero ?",
+        "answer": "Le Nevado del Ruiz",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle île caribéenne s'est séparée des Antilles néerlandaises pour obtenir un statut autonome (« Status Aparte ») le 1er janvier 1986 ?",
+        "answer": "Aruba",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel lac de cratère au Cameroun a libéré une nappe de gaz carbonique mortelle en août 1986 ?",
+        "answer": "Le lac Nyos",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville ukrainienne (alors soviétique) habitaient les employés de la centrale de Tchernobyl, évacuée en 1986 ?",
+        "answer": "Pripiat",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle baie de l'Alaska a été souillée par le naufrage de l'Exxon Valdez en mars 1989 ?",
+        "answer": "La baie du Prince-William",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville roumaine fut le point de départ de la révolution contre Nicolae Ceaușescu en décembre 1989 ?",
+        "answer": "Timișoara",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a officiellement changé son nom de « Birmanie » à « Myanmar » en 1989 ?",
+        "answer": "L'Union de Myanmar",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville d'Arménie (alors en URSS) s'est produit le séisme dévastateur de décembre 1988 ?",
+        "answer": "Spitak",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel nom portait le Cambodge entre 1975 et 1979, appellation officiellement abandonnée par l'ONU seulement en 1989/1990 ?",
+        "answer": "Le Kampuchéa démocratique",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel détroit stratégique a été le théâtre d'affrontements majeurs durant la guerre Iran-Irak (1980-1988) ?",
+        "answer": "Le détroit d'Ormuz",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle grotte de l'île d'Ouvéa a été le théâtre d'une prise d'otages sanglante en Nouvelle-Calédonie en 1988 ?",
+        "answer": "La grotte de Gossanah",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel volcan mexicain est entré en éruption en 1982, projetant une quantité massive de soufre dans l'atmosphère ?",
+        "answer": "El Chichón",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville de Yougoslavie la naissance du 5 milliardième être humain a-t-elle été symboliquement célébrée en 1987 ?",
+        "answer": "Zagreb",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle voie navigable a fait l'objet d'un conflit frontalier appelé la guerre du Shatt al-Arab dans les années 80 ?",
+        "answer": "Le Shatt al-Arab (ou Arvand Roud)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel micro-État des Caraïbes est devenu indépendant en 1981, composé de deux îles principales et de Redonda ?",
+        "answer": "Antigua-et-Barbuda",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle région du nord de l'Éthiopie a été l'épicentre médiatique de la grande famine de 1984-1985 ?",
+        "answer": "Le Tigré (ou Tigray)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel nom a pris la Haute-Volta le 4 août 1984 à l'initiative de Thomas Sankara ?",
+        "answer": "Le Burkina Faso",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel archipel de l'Atlantique Sud a été envahi par l'Argentine le 2 avril 1982 ?",
+        "answer": "Les îles Malouines (Falkland Islands)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pont de la région de San Francisco s'est partiellement effondré lors du séisme de Loma Prieta en 1989 ?",
+        "answer": "Le Bay Bridge (San Francisco-Oakland)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a signé un traité de libre association avec les États-Unis en 1986, incluant les États de Chuuk et Yap ?",
+        "answer": "Les États fédérés de Micronésie",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel bantoustan d'Afrique du Sud a déclaré une « indépendance » non reconnue internationalement en 1981 ?",
+        "answer": "Le Ciskei",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle ville irakienne a eu lieu l'attaque chimique massive contre les Kurdes en mars 1988 ?",
+        "answer": "Halabja",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel port belge a été le théâtre du naufrage du ferry Herald of Free Enterprise en 1987 ?",
+        "answer": "Zeebruges",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle mer intérieure quasi-asséchée a vu le port de Mouïnak (Ouzbékistan) se retrouver à des kilomètres de l'eau dans les années 80 ?",
+        "answer": "La mer d'Aral",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Afrique de l'Ouest a subi une tentative de coup d'État en 1985 menée par le colonel Diarra Traoré ?",
+        "answer": "La Guinée",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle vallée du Liban se sont affrontées les armées syrienne et israélienne en juin 1982 ?",
+        "answer": "La plaine de la Bekaa",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle nation du Pacifique a vu ses habitants de l'atoll de Bikini réinstallés en 1985 suite à une contamination radioactive persistante ?",
+        "answer": "Les Îles Marshall",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel désert a été traversé par la route des Toyota lors du conflit tchado-libyen en 1987 ?",
+        "answer": "Le Sahara (ou désert du Tibesti)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel passage maritime clé entre le Danemark et la Suède a fait l'objet de discussions dans les années 80 pour la construction d'un pont ?",
+        "answer": "L'Öresund",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel archipel contesté la Chine et le Vietnam se sont-ils affrontés militairement pour le récif de Johnson South en 1988 ?",
+        "answer": "Les îles Spratleys",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays africain est officiellement né en 1980, remplaçant la Rhodésie ?",
+        "answer": "Zimbabwe",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle république soviétique la catastrophe nucléaire de Tchernobyl a-t-elle eu lieu en 1986 ?",
+        "answer": "Ukraine",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "La chute de quel mur célèbre en 1989 a redessiné la carte de l'Allemagne ?",
+        "answer": "Mur de Berlin",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a été ravagé par une famine historique médiatisée par le Live Aid au milieu des années 80 ?",
+        "answer": "Éthiopie",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel archipel de l'Atlantique Sud a été l'objet d'une guerre entre le Royaume-Uni et l'Argentine en 1982 ?",
+        "answer": "Malouines / Falkland",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays la ville de Bhopal a-t-elle subi une catastrophe industrielle chimique en 1984 ?",
+        "answer": "Inde",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel nom le régime militaire a-t-il donné à la Birmanie en 1989 ?",
+        "answer": "Myanmar",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays s'appelait la Haute-Volta avant de changer de nom en 1984 ?",
+        "answer": "Burkina Faso",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quelle nation constitutive du Royaume-Uni le vol Pan Am 103 s'est-il écrasé (Lockerbie) en 1988 ?",
+        "answer": "Écosse",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Entre la France et quel pays le creusement du tunnel sous la Manche a-t-il débuté en 1987 ?",
+        "answer": "Royaume-Uni",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quels deux pays de la péninsule ibérique ont rejoint la CEE (future UE) en 1986 ?",
+        "answer": "Espagne et Portugal",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quelle place de Pékin les manifestations étudiantes ont-elles été réprimées en 1989 ?",
+        "answer": "Tiananmen",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Un accord historique a été signé en 1984 pour préparer la rétrocession de Hong Kong à quel pays ?",
+        "answer": "Chine",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Une guerre sanglante de huit ans a opposé l'Irak à quel pays voisin durant les années 80 ?",
+        "answer": "Iran",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle petite île des Caraïbes a été envahie par les États-Unis en 1983 ?",
+        "answer": "Grenade",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel stade de Bruxelles un drame provoquant 39 morts a-t-il eu lieu en 1985 ?",
+        "answer": "Heysel",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle structure moderne controversée a été inaugurée dans la cour du Louvre à Paris en 1989 ?",
+        "answer": "La Pyramide",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Le séisme de Loma Prieta en 1989 a frappé la région de quelle grande ville américaine ?",
+        "answer": "San Francisco",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "La navette Challenger a explosé en 1986 peu après son décollage de quel État américain ?",
+        "answer": "Floride",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle république soviétique a été frappée par un séisme dévastateur (Spitak) en 1988 ?",
+        "answer": "Arménie",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Dans quel pays africain le lac Nyos a-t-il libéré un gaz mortel en 1986 ?",
+        "answer": "Cameroun",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Le Kampuchéa démocratique a repris quel nom officiel en 1989 ?",
+        "answer": "Cambodge",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays d'Amérique centrale a obtenu son indépendance du Royaume-Uni en 1981 ?",
+        "answer": "Belize",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Sur quelle place du Vatican le pape Jean-Paul II a-t-il subi une tentative d'assassinat en 1981 ?",
+        "answer": "Place Saint-Pierre",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel monument de New York a rouvert en 1986 après une restauration majeure pour son centenaire ?",
+        "answer": "Statue de la Liberté",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel sultanat riche en pétrole est devenu totalement indépendant du Royaume-Uni en 1984 ?",
+        "answer": "Brunei",
+        "notoriety": 1,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays, anciennement connu sous le nom de Nouvelles-Hébrides, a accédé à l'indépendance le 30 juillet 1980 ?",
+        "answer": "Le Vanuatu",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel territoire a officiellement obtenu le « Status Aparte » le 1er janvier 1986, se séparant administrativement des Antilles néerlandaises ?",
+        "answer": "Aruba",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Le 4 août 1984, sous l'impulsion de Thomas Sankara, la Haute-Volta a changé de nom pour devenir...",
+        "answer": "Le Burkina Faso",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle catastrophe limnique majeure a tué plus de 1 700 personnes au Cameroun le 21 août 1986 ?",
+        "answer": "L'éruption du lac Nyos",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville colombienne a été rayée de la carte par un lahar suite à l'éruption du Nevado del Ruiz en 1985 ?",
+        "answer": "Armero",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle entité politique autoproclamée a déclaré unilatéralement son indépendance le 15 novembre 1983 sur une île méditerranéenne ?",
+        "answer": "La République turque de Chypre du Nord",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pont suspendu, le plus long du monde à son inauguration, a ouvert au trafic en 1981 au Royaume-Uni ?",
+        "answer": "Le pont du Humber",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 1988, quel État brésilien a été créé par la division de la partie nord de l'État de Goiás ?",
+        "answer": "Le Tocantins",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 1981, quelle loi controversée la Knesset a-t-elle votée concernant le plateau du Golan ?",
+        "answer": "La loi du plateau du Golan (annexion de facto)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle baie d'Alaska a été souillée par le naufrage de l'Exxon Valdez en mars 1989 ?",
+        "answer": "La baie du Prince-Guillaume (Prince William Sound)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel traité signé en 1986 à Cantorbéry a officiellement scellé l'accord pour la construction du Tunnel sous la Manche ?",
+        "answer": "Le traité de Cantorbéry",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle ville soviétique d'Arménie a été presque entièrement détruite lors du séisme du 7 décembre 1988 ?",
+        "answer": "Spitak",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 1986, quels États insulaires du Pacifique sont entrés en libre association avec les États-Unis après la dissolution du territoire sous tutelle ?",
+        "answer": "Les États fédérés de Micronésie (et les Îles Marshall)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a officiellement demandé à l'ONU en 1985 que son nom ne soit plus traduit, imposant l'usage de « Côte d'Ivoire » dans toutes les langues ?",
+        "answer": "La Côte d'Ivoire",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle île a été le théâtre de l'invasion américaine « Urgent Fury » en octobre 1983 ?",
+        "answer": "La Grenade",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays est devenu le dernier au monde à abolir officiellement l'esclavage en 1981 ?",
+        "answer": "La Mauritanie",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel système de ponts reliant les îles de Honshū et Shikoku au Japon a été inauguré en 1988 ?",
+        "answer": "Le Grand pont de Seto (Seto Ohashi)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel protocole international signé en 1987 visait spécifiquement à protéger la couche d'ozone ?",
+        "answer": "Le protocole de Montréal",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 1982, la guerre des Malouines a débuté par l'invasion argentine de quel territoire dépendant, outre les Malouines elles-mêmes ?",
+        "answer": "La Géorgie du Sud",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel séisme a provoqué l'effondrement d'une section du Bay Bridge dans la région de San Francisco en 1989 ?",
+        "answer": "Le séisme de Loma Prieta",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a achevé la construction de la route du Karakorum, ouverte au public en 1986 ?",
+        "answer": "Le Pakistan (avec la Chine)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 1989, la Tchécoslovaquie a commencé à démanteler les fortifications frontalières avec quel pays, avant même la chute du mur de Berlin ?",
+        "answer": "L'Autriche",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "En 1986, dans quel pays européen la catastrophe de Tchernobyl a-t-elle été détectée pour la première fois en dehors de l'URSS ?",
+        "answer": "La Suède (centrale de Forsmark)",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel chemin de fer traversant la forêt équatoriale a été inauguré au Gabon en 1986 ?",
+        "answer": "Le Transgabonais",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quelle petite nation insulaire est devenue indépendante le 19 septembre 1983 ?",
+        "answer": "Saint-Christophe-et-Niévès",
+        "notoriety": 3,
+        "era": "1980s"
+    },
+    {
+        "theme": "Geographie",
+        "text": "Quel pays a officiellement adopté le nom de « République socialiste du Viêt Nam » après une nouvelle constitution en 1980 (consolidant l'unification de 76) ?",
+        "answer": "Le Vietnam",
+        "notoriety": 3,
+        "era": "1980s"
+    }
+]
